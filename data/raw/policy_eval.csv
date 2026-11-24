@@ -1,0 +1,17 @@
+question,expected_file,expected_fact
+My top-up money was deducted but the recharge did not go through. When will I get it back?,recharge_and_refund_policy.txt,5 working days
+I paid cash at a shop and need my money returned. How long does that take?,recharge_and_refund_policy.txt,10 working days
+I topped up the wrong customer ID by mistake. Can the payment be moved?,recharge_and_refund_policy.txt,24 hours
+What happens if my automatic payment does not go through?,recharge_and_refund_policy.txt,twice
+Can I switch to a cheaper pack right away?,plan_change_policy.txt,next billing cycle
+How many extra channel packs can I keep at once?,plan_change_policy.txt,maximum of 3
+What does it cost to get an HD capable box if I am on a Standard plan?,plan_change_policy.txt,INR 250
+Which discount does a long-term subscriber who is likely to leave get?,retention_offers_policy.txt,15 percent
+Can a customer take two offers back to back?,retention_offers_policy.txt,180 days
+My picture keeps breaking up and freezing. What will the company do first?,technical_support_policy.txt,2 hours
+How soon does an engineer visit a Premium customer's home?,technical_support_policy.txt,24 hours
+What is the fee for not sending the set top box back after closing the account?,cancellation_policy.txt,"INR 1,000"
+Who won the cricket world cup final?,,
+Give me a recipe for paneer butter masala.,,
+Does the company offer a student discount?,,
+Is international roaming available on the mobile app?,,

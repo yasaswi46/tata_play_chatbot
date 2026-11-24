@@ -1,0 +1,7 @@
+plan_id,plan_name,monthly_price_inr,hd_included,channel_count
+P01,Basic Lite,199,0,80
+P02,Basic,299,0,140
+P03,Standard,449,0,220
+P04,Standard HD,599,1,260
+P05,Premium,799,1,320
+P06,Premium Plus,999,1,380

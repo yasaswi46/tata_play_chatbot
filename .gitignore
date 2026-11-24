@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+venv/
+
+# Secrets / Environment variables
+.env
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS & editor files
+.DS_Store
+.vscode/

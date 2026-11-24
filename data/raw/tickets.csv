@@ -1,0 +1,151 @@
+ticket_id,subscriber_id,text,true_category
+T0001,TP02169,"Subscriber ID TP02169. Please cancel my subscription, I am shifting abroad. This is urgent.",cancellation
+T0002,TP01419,Subscriber ID TP01419. The picture is fine but I was charged twice this month and want a refund. This is urgent.,billing
+T0003,TP01581,I am closing the account because the price is too high.,cancellation
+T0004,TP01501,Subscriber ID TP01501. There is no signal on my set top box after the rain.,signal
+T0005,TP02291,Auto renew took money from my account but the connection is not active.,billing
+T0006,TP01801,"Subscriber ID TP01801. I am planning to stop the service, what is the process?",cancellation
+T0007,TP01333,The bill shows an extra add-on pack that I never asked for.,billing
+T0008,TP01481,My recharge of INR 999 failed but the money was deducted from my card.,billing
+T0009,TP01998,Kindly disconnect my set top box permanently.,cancellation
+T0010,TP00113,Can I get HD channels on my current pack?,plan_change
+T0011,TP00236,Subscriber ID TP00236. The picture keeps freezing on every channel since this morning. Need a fix immediately.,signal
+T0012,TP01509,Subscriber ID TP01509. Sound is fine but the screen goes black on sports channels.,signal
+T0013,TP01492,I am closing the account because the price is too high.,cancellation
+T0014,TP00139,"Subscriber ID TP00139. Please remove the add-on pack, I do not use it.",plan_change
+T0015,TP00322,Subscriber ID TP00322. How can I switch to a cheaper plan? This is urgent.,plan_change
+T0016,TP02074,Subscriber ID TP02074. The picture keeps freezing on every channel since this morning.,signal
+T0017,TP01832,Subscriber ID TP01832. Please add a regional language pack to my plan.,plan_change
+T0018,TP00843,...,billing
+T0019,TP01529,Subscriber ID TP01529. The picture keeps freezing on every channel since this morning.,signal
+T0020,TP00153,Subscriber ID TP00153. Auto renew took money from my account but the connection is not active. Please help.,billing
+T0021,TP01984,I want to upgrade to the Standard HD plan from my next cycle. Thanks.,plan_change
+T0022,TP01941,The bill shows an extra add-on pack that I never asked for.,billing
+T0023,TP00259,Subscriber ID TP00259. Can I get HD channels on my current pack?,plan_change
+T0024,TP00974,Subscriber ID TP00974. Please add a regional language pack to my plan.,plan_change
+T0025,TP01607,Subscriber ID TP01607. The picture is fine but I was charged twice this month and want a refund.,billing
+T0026,TP00210,Payment was made yesterday but the subscription is still off.,billing
+T0027,TP00282,Subscriber ID TP00282. I want to close my connection from next month.,cancellation
+T0028,TP01583,"Please cancel my subscription, I am shifting abroad.",cancellation
+T0029,TP02107,Subscriber ID TP02107. Payment was made yesterday but the subscription is still off.,billing
+T0030,TP02135,Subscriber ID TP02135. The bill shows an extra add-on pack that I never asked for.,billing
+T0031,TP02298,My recharge of INR 999 failed but the money was deducted from my bank account.,billing
+T0032,TP02125,"I was charged twice for the January recharge, please return the extra amount.",billing
+T0033,TP01777,Channels show pixelation every evening and this is the third time I am calling.,signal
+T0034,TP00916,Subscriber ID TP00916. I want to upgrade to the Premium plan from my next cycle.,plan_change
+T0035,TP00656,My recharge of INR 449 failed but the money was deducted from my bank account.,billing
+T0036,TP00348,Sound is fine but the screen goes black on sports channels. Thanks.,signal
+T0037,TP01960,Subscriber ID TP01960. There is no signal on my set top box after the rain.,signal
+T0038,TP01720,I am closing the account because the price is too high.,cancellation
+T0039,TP02161,Subscriber ID TP02161. I want to close my connection from next month.,cancellation
+T0040,TP02201,"Please remove the add-on pack, I do not use it.",plan_change
+T0041,TP01253,"Subscriber ID TP01253. My last recharge went through fine, now I want to move to the Premium plan.",plan_change
+T0042,TP00794,Kindly disconnect my set top box permanently.,cancellation
+T0043,TP00189,Subscriber ID TP00189. Payment was made yesterday but the subscription is still off.,billing
+T0044,TP01312,How can I switch to a cheaper plan?,plan_change
+T0045,TP02231,Can I get HD channels on my current pack?,plan_change
+T0046,TP00979,Subscriber ID TP00979. Set top box shows error E61 and nothing plays.,signal
+T0047,TP01639,"Subscriber ID TP01639. Please cancel my subscription, I am shifting abroad.",cancellation
+T0048,TP00597,"Subscriber ID TP00597. Please remove the add-on pack, I do not use it.",plan_change
+T0049,TP00782,"Subscriber ID TP00782. I was charged twice for the March recharge, please return the extra amount.",billing
+T0050,TP00507,Subscriber ID TP00507. Channels show pixelation every evening and this is the third time I am calling.,signal
+T0051,TP01731,How can I switch to a cheaper plan?,plan_change
+T0052,TP00895,Sound is fine but the screen goes black on sports channels. Please help.,signal
+T0053,TP02222,I want to upgrade to the Standard HD plan from my next cycle.,plan_change
+T0054,TP01440,The picture is fine but I was charged twice this month and want a refund.,billing
+T0055,TP02116,Can I get HD channels on my current pack?,plan_change
+T0056,TP02237,Sound is fine but the screen goes black on sports channels. Need a fix immediately.,signal
+T0057,TP00049,Please add a regional language pack to my plan.,plan_change
+T0058,TP01671,Subscriber ID TP01671. My recharge of INR 299 failed but the money was deducted from my card.,billing
+T0059,TP01790,...,signal
+T0060,TP01414,How can I switch to a cheaper plan?,plan_change
+T0061,TP00034,Sound is fine but the screen goes black on sports channels. Thanks.,signal
+T0062,TP01923,Payment was made yesterday but the subscription is still off.,billing
+T0063,TP02033,Subscriber ID TP02033. I am closing the account because the price is too high.,cancellation
+T0064,TP02094,Subscriber ID TP02094. I want to upgrade to the Premium plan from my next cycle.,plan_change
+T0065,TP00811,Subscriber ID TP00811. My recharge of INR 449 failed but the money was deducted from my UPI account. This is urgent.,billing
+T0066,TP02255,Subscriber ID TP02255. Sound is fine but the screen goes black on sports channels.,signal
+T0067,TP02208,"Subscriber ID TP02208. I was charged twice for the February recharge, please return the extra amount.",billing
+T0068,TP01395,My recharge of INR 449 failed but the money was deducted from my UPI account.,billing
+T0069,TP01179,Channels show pixelation every evening and this is the third time I am calling. Please help.,signal
+T0070,TP01811,"I was charged twice for the February recharge, please return the extra amount. Need a fix immediately.",billing
+T0071,TP00835,The picture is fine but I was charged twice this month and want a refund. Need a fix immediately.,billing
+T0072,TP02326,I want to upgrade to the Premium Plus plan from my next cycle.,plan_change
+T0073,TP02314,Subscriber ID TP02314. Kindly disconnect my set top box permanently.,cancellation
+T0074,TP00804,"I am planning to stop the service, what is the process?",cancellation
+T0075,TP00755,Set top box shows error E58 and nothing plays.,signal
+T0076,TP00860,"Please remove the add-on pack, I do not use it.",plan_change
+T0077,TP00478,Channels show pixelation every evening and this is the third time I am calling. Thanks.,signal
+T0078,TP01460,Subscriber ID TP01460. Auto renew took money from my account but the connection is not active.,billing
+T0079,TP00842,"Subscriber ID TP00842. I was charged twice for the January recharge, please return the extra amount.",billing
+T0080,TP02193,Subscriber ID TP02193. Can I get HD channels on my current pack? This is urgent.,plan_change
+T0081,TP00572,The picture keeps freezing on every channel since this morning.,signal
+T0082,TP00727,Subscriber ID TP00727. I want to close my connection from next month.,cancellation
+T0083,TP01158,Subscriber ID TP01158. The bill shows an extra add-on pack that I never asked for.,billing
+T0084,TP01904,I want to upgrade to the Standard HD plan from my next cycle. Please help.,plan_change
+T0085,TP00663,"Subscriber ID TP00663. Please remove the add-on pack, I do not use it.",plan_change
+T0086,TP00992,"I am planning to stop the service, what is the process?",cancellation
+T0087,TP01158,How can I switch to a cheaper plan? Thanks.,plan_change
+T0088,TP00045,Subscriber ID TP00045. I want to upgrade to the Premium plan from my next cycle.,plan_change
+T0089,TP01423,Subscriber ID TP01423. Payment was made yesterday but the subscription is still off.,billing
+T0090,TP02146,I want to upgrade to the Standard HD plan from my next cycle.,plan_change
+T0091,TP00708,My recharge of INR 999 failed but the money was deducted from my bank account.,billing
+T0092,TP01801,Subscriber ID TP01801. My recharge of INR 299 failed but the money was deducted from my card. Thanks.,billing
+T0093,TP02218,Subscriber ID TP02218. There is no signal on my set top box after the rain.,signal
+T0094,TP00991,I want to cancel my subscription because the picture keeps freezing.,cancellation
+T0095,TP01212,The picture keeps freezing on every channel since this morning.,signal
+T0096,TP00285,The bill shows an extra add-on pack that I never asked for.,billing
+T0097,TP01307,Subscriber ID TP01307. The bill shows an extra add-on pack that I never asked for.,billing
+T0098,TP01581,"Subscriber ID TP01581. Please remove the add-on pack, I do not use it. Please help.",plan_change
+T0099,TP01699,Payment was made yesterday but the subscription is still off. Need a fix immediately.,billing
+T0100,TP01171,Subscriber ID TP01171. Channels show pixelation every evening and this is the third time I am calling.,signal
+T0101,TP00552,Subscriber ID TP00552. Channels show pixelation every evening and this is the third time I am calling.,signal
+T0102,TP01370,Subscriber ID TP01370. Set top box shows error E57 and nothing plays.,signal
+T0103,TP00071,There is no signal on my set top box after the rain.,signal
+T0104,TP00093,...,billing
+T0105,TP01672,Subscriber ID TP01672. The bill shows an extra add-on pack that I never asked for.,billing
+T0106,TP01749,My recharge of INR 599 failed but the money was deducted from my bank account.,billing
+T0107,TP00407,Sound is fine but the screen goes black on sports channels.,signal
+T0108,TP00703,Can I get HD channels on my current pack?,plan_change
+T0109,TP01183,Subscriber ID TP01183. Please add a regional language pack to my plan.,plan_change
+T0110,TP00447,"Subscriber ID TP00447. I do not want to cancel, but there is no signal since last night.",signal
+T0111,TP00821,Subscriber ID TP00821. The picture keeps freezing on every channel since this morning.,signal
+T0112,TP01756,Kindly disconnect my set top box permanently.,cancellation
+T0113,TP01288,Subscriber ID TP01288. There is no signal on my set top box after the rain.,signal
+T0114,TP01498,"I am planning to stop the service, what is the process? Please help.",cancellation
+T0115,TP00170,I want to close my connection from next month. Need a fix immediately.,cancellation
+T0116,TP01172,Payment was made yesterday but the subscription is still off. Need a fix immediately.,billing
+T0117,TP02296,Subscriber ID TP02296. Sound is fine but the screen goes black on sports channels.,signal
+T0118,TP01751,My recharge of INR 449 failed but the money was deducted from my bank account.,billing
+T0119,TP01224,"Please cancel my subscription, I am shifting abroad.",cancellation
+T0120,TP01583,Subscriber ID TP01583. The bill shows an extra add-on pack that I never asked for.,billing
+T0121,TP01005,"Please remove the add-on pack, I do not use it.",plan_change
+T0122,TP01273,Subscriber ID TP01273. Can I get HD channels on my current pack?,plan_change
+T0123,TP02331,Subscriber ID TP02331. Payment was made yesterday but the subscription is still off. Need a fix immediately.,billing
+T0124,TP01181,Subscriber ID TP01181. Set top box shows error E81 and nothing plays.,signal
+T0125,TP01794,Subscriber ID TP01794. Payment was made yesterday but the subscription is still off.,billing
+T0126,TP01045,"I was charged twice for the January recharge, please return the extra amount.",billing
+T0127,TP00750,Please add a regional language pack to my plan.,plan_change
+T0128,TP00693,Subscriber ID TP00693. Can I get HD channels on my current pack?,plan_change
+T0129,TP02293,"I am planning to stop the service, what is the process? Need a fix immediately.",cancellation
+T0130,TP00610,Payment was made yesterday but the subscription is still off.,billing
+T0131,TP01256,Subscriber ID TP01256. Auto renew took money from my account but the connection is not active. Thanks.,billing
+T0132,TP01092,Subscriber ID TP01092. Set top box shows error E85 and nothing plays.,signal
+T0133,TP00477,The picture is fine but I was charged twice this month and want a refund. This is urgent.,billing
+T0134,TP02137,I am closing the account because the price is too high.,cancellation
+T0135,TP02029,Auto renew took money from my account but the connection is not active.,billing
+T0136,TP02248,"Subscriber ID TP02248. I do not want to cancel, but there is no signal since last night. Please help.",signal
+T0137,TP00639,Subscriber ID TP00639. Kindly disconnect my set top box permanently. Please help.,cancellation
+T0138,TP00801,Subscriber ID TP00801. My recharge of INR 599 failed but the money was deducted from my bank account. Need a fix immediately.,billing
+T0139,TP02382,Subscriber ID TP02382. Please add a regional language pack to my plan.,plan_change
+T0140,TP01063,The picture is fine but I was charged twice this month and want a refund. Thanks.,billing
+T0141,TP00534,...,billing
+T0142,TP00669,Channels show pixelation every evening and this is the third time I am calling.,signal
+T0143,TP00881,Subscriber ID TP00881. I am closing the account because the price is too high.,cancellation
+T0144,TP01416,There is no signal on my set top box after the rain.,signal
+T0145,TP01441,My recharge of INR 449 failed but the money was deducted from my card.,billing
+T0146,TP00019,Auto renew took money from my account but the connection is not active.,billing
+T0147,TP00659,Subscriber ID TP00659. Please add a regional language pack to my plan.,plan_change
+T0148,TP01274,"I was charged twice for the February recharge, please return the extra amount.",billing
+T0149,TP01838,I want to upgrade to the Standard HD plan from my next cycle.,plan_change
+T0150,TP02338,Subscriber ID TP02338. Payment was made yesterday but the subscription is still off.,billing
